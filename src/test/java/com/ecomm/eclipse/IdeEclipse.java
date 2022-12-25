@@ -7,7 +7,7 @@ public class IdeEclipse {
 	@Test(groups="sanity")
 	public void testngide()
 	{
-		Reporter.log("hi everyone no no its not right",true);
+		Reporter.log("hi everyone what what",true);
 	}
 
 }
